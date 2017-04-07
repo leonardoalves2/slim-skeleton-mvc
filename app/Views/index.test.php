@@ -1,0 +1,3 @@
+<?php
+
+echo $test->hello;
