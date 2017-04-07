@@ -39,37 +39,3 @@ $ php -S localhost:8000
 Going to http://localhost:8000/hello/world will now display "Hello, world".
 
 For more information on how to configure your web server, see the [Documentation](https://www.slimframework.com/docs/start/web-servers.html).
-
-## Tests
-
-To execute the test suite, you'll need phpunit.
-
-```bash
-$ phpunit
-```
-
-## Learn More
-
-Learn more at these links:
-
-- [Website](https://www.slimframework.com)
-- [Documentation](https://www.slimframework.com/docs/start/installation.html)
-- [Support Forum](http://discourse.slimframework.com)
-- [Twitter](https://twitter.com/slimphp)
-- [Resources](https://github.com/xssc/awesome-slim)
-
-## Security
-
-If you discover security related issues, please email security@slimframework.com instead of using the issue tracker.
-
-## Credits
-
-- [Josh Lockhart](https://github.com/codeguy)
-- [Andrew Smith](https://github.com/silentworks)
-- [Rob Allen](https://github.com/akrabat)
-- [Gabriel Manricks](https://github.com/gmanricks)
-- [All Contributors](../../contributors)
-
-## License
-
-The Slim Framework is licensed under the MIT license. See [License File](LICENSE.md) for more information.
